@@ -11,13 +11,14 @@ const Footer = () => {
     { href: "/#our-work", label: "Our Work" },
     { href: "/#news", label: "News" },
     { href: "/#contact-us", label: "Contact Us" },
+    { href: "/#the-team", label: "Meet the team" },
     { href: "/#we-are-hiring", label: "We're Hiring" },
   ];
 
   const contactInfo = [
     { icon: MapPin, text: "San Francisco, CA" },
-    { icon: Mail, text: "hello@pixelstudio.com" },
-    { icon: Phone, text: "+1 (415) 555-0123" },
+    { icon: Mail, text: "hello@pixelfreelance.com" },
+    { icon: Phone, text: "+1 (551) 280-5144" },
   ];
 
   return (

@@ -20,6 +20,7 @@ interface MobileNavProps {
 const navItems: NavItem[] = [
   { href: '/about-us', label: 'About Us' },
   { href: '/#our-work', label: 'Our Work' },
+  { href: '/#the-team', label: 'Meet the Team' },
   { href: '/#news', label: 'News' },
   { href: '/#contact-us', label: 'Contact Us' },
   { href: '/#we-are-hiring', label: "We're Hiring" }
