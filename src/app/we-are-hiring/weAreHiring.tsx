@@ -235,7 +235,7 @@ const WeAreHiring: React.FC = () => {
                 Send your CV and cover letter to get started on your journey with us.
               </p>
               <a
-                href="mailto:careers@pixelfreelance.com"
+                href="mailto:careers@pixelgig.org"
                 className="inline-flex items-center gap-2 bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors duration-200"
               >
                 <Mail className="w-5 h-5" />
