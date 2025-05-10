@@ -18,7 +18,7 @@ const Footer = () => {
   const contactInfo = [
     { icon: MapPin, text: "San Francisco, CA" },
     { icon: Mail, text: "hello@pixelgig.org" },
-    { icon: Phone, text: "+1 (551) 280-5144" },
+    { icon: Phone, text: "+1 (786) 936-4552" },
   ];
 
   return (
