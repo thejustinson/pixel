@@ -1,28 +1,28 @@
 {
-    "data": [
-      {
-        "name": "Isabella",
-        "position": "Founder",
-        "about": "Isabella is an astute data analyst, writer and researcher whose passion lies at the intersection of creative art and capacity development. She recently completed her masters in theatre art at the university of Buffalo, NY. Her interest diverge across a breadth of discipline in creative art especially in ghost writing.\n\nShe has gained momentum as a freelancers with many collaborations including IDEO, PENTAGRAM, INCOME DIARY and the BOSTON INSTITUTE OF HISTORY. She received a special recognition award at Vienna, Austria for her creative acumen. She is always excited about the prospect of using both quantitative and qualitative tools to support technological advancement. She is interested in listening and hearing from colleagues and creative minds anywhere in the world as she belives in collaborative leadership. In her free time, she loves reading, writing, playing basketball, and listening to classic R and B. The one word that can describe Isabella is Versatility especially in knowledge as demonstrated when she speaks virtually and physically.",
-        "image": "/images/team/kimberly.jpg"
-      },
-      {
-        "name": "Angela",
-        "position": "Head of Sales",
-        "about": "Meet Angela, she is a dynamic freelancer with a passion for creativity and a knack for turning ideas into reality. With a background in copywriting and reading, Angela thrives on the challenge of bringing visions to life.\n\nBorn and raised in a small town in London, Angela's love for art and storytelling blossomed from a young age. After honing her skills through formal education and hands-on experience, she embarked on a freelance journey that has taken her on countless adventures.\n\nFrom collaborating with clients around the globe to exploring the ever-evolving landscape of digital media, Angela approaches each project with enthusiasm, dedication, and a keen eye for detail. Her work is characterized by its ability to captivate, inspire, and leave a lasting impression.\n\nWhen she's not immersed in her creative pursuits, Angela can be found exploring nature, indulging in her love for travel, eating vegetables or simply enjoying a good book with a cup of tea in hand. With a zest for life and a commitment to excellence, she continues to push the boundaries of what is possible. One project at a time",
-        "image": "/images/team/angela.jpg"
-      },
-      {
-        "name": "Alison",
-        "position": "HR",
-        "about": "Meet Alison, she is from New York. She is a passionate freelancer fueled by creativity and driven by a relentless pursuit of excellence. With a background in graphic design and a flair for storytelling, Alison brings ideas to life with precision and panache.\n\nRaised in West Batavia, New York, Alison's journey as a freelancer began with a single brushstroke and a boundless imagination. From crafting captivating visuals to weaving compelling narratives, she approaches each project with a blend of artistry and innovation.\n\nIn her pursuit of perfection, Alison's dedication knows no bounds. Whether she's collaborating with clients to understand their vision or fine-tuning every pixel of a design, she thrives on the challenge of exceeding expectations.\n\nBeyond her professional endeavors, Alison finds joy in the simple pleasures of life. Whether she's exploring new horizons through travel, immersing herself in the beauty of nature, or indulging in the richness of culture, she approaches each experience with an open heart and a curious mind.\n\nDriven by a desire to make a meaningful impact, Alison's work transcends boundaries, resonating with audiences far and wide. With her passion for creativity as her compass, she continues to shape the world one project at a time.",
-        "image": "/images/team/alison.jpg"
-      },
-      {
-        "name": "Danny",
-        "position": "CTO",
-        "about": "As you step into a bustling café in downtown San Francisco, your eyes are drawn to an august persona sitting in the corner, engrossed in his laptop. With a friendly smile and a warm handshake, you introduce yourself to Danny, immediately struck by his easygoing demeanor and genuine enthusiasm.\n\nOver steaming cups of artisanal coffee, Danny eagerly shares snippets of his life story. Born and raised in the vibrant city of Los Angeles, he recalls spending hours tinkering with computers in his childhood bedroom, captivated by the endless possibilities of coding. His passion for technology led him to pursue a degree in computer science, but it was his insatiable thirst for personal growth that truly set him apart.\n\nAs you listen to Danny's tales of daring adventures and bold experiments, it becomes clear that he is not just a programmer but a fearless explorer of life's endless possibilities. Whether he's diving into a new coding project or embarking on a spontaneous road trip, he approaches each experience with an open heart and a willingness to embrace the unknown.\n\nBut perhaps what is most inspiring about Danny is not his own accomplishments but his unwavering belief in the potential of others. With genuine compassion and boundless optimism, he encourages those around him to step outside their comfort zones and pursue their dreams with courage and conviction.\n\nAs you bid farewell to Danny and step back out into the beautiful streets of California, you can't help but feel a renewed sense of purpose and excitement. Inspired by his stories and energized by his infectious enthusiasm, you're ready to embrace your own journey of self-discovery, knowing that with a fearless spirit and an open mind, anything is possible.",
-        "image": "/images/team/mark.jpg"
-      }
-    ]
-  }
+  "data": [
+    {
+      "name": "Alison",
+      "position": "Founder",
+      "about": "Meet Alison, the visionary behind the company. Raised in West Batavia, New York, Alison's entrepreneurial journey began with a single idea and the courage to pursue it relentlessly. With a background in graphic design and a flair for storytelling, she built the foundation of this organization from the ground up — combining creative instinct with sharp business acumen.\n\nAs Founder, Alison sets the strategic direction of the company, championing a culture of innovation, excellence, and purpose-driven work. Her ability to see the big picture while staying attuned to every detail has been central to the company's growth and identity.\n\nBeyond her role at the helm, Alison is deeply committed to building something that lasts — a brand that resonates, a team that thrives, and a mission that matters. She draws inspiration from travel, nature, and the richness of diverse cultures, all of which inform her human-centered approach to leadership.\n\nDriven by a desire to make a meaningful impact, Alison continues to shape the company's future one bold decision at a time.",
+      "image": "/images/team/alison.jpg"
+    },
+    {
+      "name": "Danny",
+      "position": "Coach",
+      "about": "Danny is the company's Coach — the person people turn to when they need clarity, direction, and a reminder of what they're capable of. Born and raised in Los Angeles and now based in San Francisco, Danny brings a rare combination of technical depth and genuine people-first leadership to his role.\n\nWith a background in computer science and years of experience navigating high-growth environments, Danny has a gift for meeting people where they are and helping them grow beyond where they thought they could go. His coaching style is grounded in empathy, honest feedback, and an unshakeable belief in human potential.\n\nWhether he's working one-on-one with team members, facilitating growth conversations, or helping the organization build better habits and systems, Danny approaches every engagement with warmth, patience, and infectious enthusiasm.\n\nOutside of work, he's a lifelong learner — equally at home on a spontaneous road trip as he is deep in a new book or experimenting with a side project. His fearless spirit and open mind make him not just a great coach, but a great person to have in your corner.",
+      "image": "/images/team/mark.jpg"
+    },
+    {
+      "name": "Angela",
+      "position": "Project Analyst",
+      "about": "Angela is the company's Project Analyst — the engine behind organized execution and data-informed decision making. Originally from London and now a seasoned freelance professional, Angela brings a sharp eye for detail and a talent for transforming complex information into clear, actionable insights.\n\nWith a background in copywriting and a deep love for structured thinking, Angela bridges the gap between creative vision and operational clarity. She tracks project progress, identifies risks early, and ensures that every initiative moves forward with precision and purpose.\n\nAngela thrives in collaborative environments, working closely with cross-functional teams to keep deliverables on track and stakeholders well-informed. Her ability to blend qualitative storytelling with quantitative rigour makes her an invaluable analytical voice in any project room.\n\nWhen she steps away from dashboards and timelines, Angela recharges through travel, long walks in nature, and a good book paired with a cup of tea. Her zest for life and commitment to doing things right — not just fast — define both her work and her character.",
+      "image": "/images/team/angela.jpg"
+    },
+    {
+      "name": "Vanessa",
+      "position": "HR",
+      "about": "Vanessa leads Human Resources with a distinctly people-centered philosophy — one shaped by her rich background as a researcher, writer, and creative thinker. A graduate of the University of Buffalo with a master's in theatre arts, Vanessa brings an unusually holistic lens to the work of building and sustaining a great team.\n\nIn her HR role, Vanessa champions hiring practices rooted in both skill and cultural alignment, designs onboarding experiences that make people feel genuinely welcomed, and creates the conditions for employees to grow and thrive. She believes that an organization is only as strong as the relationships within it — and she works every day to make those relationships stronger.\n\nHer collaborative leadership style, honed through partnerships with organizations like IDEO and Pentagram, means she leads with listening first. She's as comfortable running a one-on-one check-in as she is facilitating a full team workshop.\n\nOutside the office, Vanessa reads widely, writes often, plays basketball, and champions the kind of interdisciplinary thinking that makes both people and organizations more resilient.",
+      "image": "/images/team/kimberly.jpg"
+    }
+  ]
+}
