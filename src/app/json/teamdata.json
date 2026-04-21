@@ -1,10 +1,10 @@
 {
   "data": [
     {
-      "name": "Isabella",
+      "name": "Emilia",
       "position": "Founder",
-      "about": "Meet Isabella, the visionary behind the company. Raised in West Batavia, New York, Isabella's entrepreneurial journey began with a single idea and the courage to pursue it relentlessly. With a background in graphic design and a flair for storytelling, she built the foundation of this organization from the ground up — combining creative instinct with sharp business acumen.\n\nAs Founder, Isabella sets the strategic direction of the company, championing a culture of innovation, excellence, and purpose-driven work. Her ability to see the big picture while staying attuned to every detail has been central to the company's growth and identity.\n\nBeyond her role at the helm, Isabella is deeply committed to building something that lasts — a brand that resonates, a team that thrives, and a mission that matters. She draws inspiration from travel, nature, and the richness of diverse cultures, all of which inform her human-centered approach to leadership.\n\nDriven by a desire to make a meaningful impact, Isabella continues to shape the company's future one bold decision at a time.",
-      "image": "/images/team/alison.jpg"
+      "about": "Meet Emilia, the visionary force behind the company. A graduate of the University of Buffalo with a master's in theatre arts, Emilia brings an unusually human-centered lens to entrepreneurship — one shaped by her rich background as a researcher, writer, and creative thinker.\n\nAs Founder, Emilia sets the strategic direction of the company with a people-first philosophy at its core. She built this organization on the belief that an institution is only as strong as the relationships within it — and that lasting success starts with culture, trust, and purpose. Her collaborative leadership style, honed through partnerships with organizations like IDEO and Pentagram, means she leads with listening first.\n\nEmilia champions a workplace where people feel genuinely seen, supported, and empowered to do their best work. Whether she's shaping long-term strategy, rallying the team around a shared vision, or rolling up her sleeves on the details, she brings the same warmth, intention, and intellectual rigour to everything she does.\n\nOutside the office, Emilia reads widely, writes often, plays basketball, and champions the kind of interdisciplinary thinking that makes both people and organizations more resilient. She continues to shape the company's future one bold, human decision at a time.",
+      "image": "/images/team/kimberly.jpg"
     },
     {
       "name": "Danny",
@@ -19,10 +19,10 @@
       "image": "/images/team/angela.jpg"
     },
     {
-      "name": "Vanessa",
+      "name": "Isabella",
       "position": "HR",
-      "about": "Vanessa leads Human Resources with a distinctly people-centered philosophy — one shaped by her rich background as a researcher, writer, and creative thinker. A graduate of the University of Buffalo with a master's in theatre arts, Vanessa brings an unusually holistic lens to the work of building and sustaining a great team.\n\nIn her HR role, Vanessa champions hiring practices rooted in both skill and cultural alignment, designs onboarding experiences that make people feel genuinely welcomed, and creates the conditions for employees to grow and thrive. She believes that an organization is only as strong as the relationships within it — and she works every day to make those relationships stronger.\n\nHer collaborative leadership style, honed through partnerships with organizations like IDEO and Pentagram, means she leads with listening first. She's as comfortable running a one-on-one check-in as she is facilitating a full team workshop.\n\nOutside the office, Vanessa reads widely, writes often, plays basketball, and champions the kind of interdisciplinary thinking that makes both people and organizations more resilient.",
-      "image": "/images/team/kimberly.jpg"
+      "about": "Isabella leads Human Resources with a visionary, people-first approach — shaped by her background in graphic design and a deep flair for storytelling. Raised in West Batavia, New York, Isabella brings both creative instinct and sharp business acumen to the work of building and sustaining a great team.\n\nIn her HR role, Isabella champions hiring practices rooted in both skill and cultural alignment, designs onboarding experiences that make people feel genuinely welcomed, and creates the conditions for employees to grow and thrive. She believes that an organization is only as strong as the relationships within it — and she works every day to make those relationships stronger.\n\nHer human-centered approach, informed by travel, nature, and the richness of diverse cultures, means she leads with empathy and an eye for both the big picture and the finer details.\n\nOutside the office, Isabella draws inspiration from exploring the world, staying attuned to creative trends, and building the kind of culture where people and ideas can truly flourish.",
+      "image": "/images/team/alison.jpg"
     }
   ]
 }
